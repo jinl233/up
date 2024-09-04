@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a3d295e69f928830","type":"text","text":"#  计算机组成","x":-1780,"y":-920,"width":560,"height":60,"color":"#080080"},
+		{"id":"ca9cbada1b6e350b","type":"file","file":"408/principles/base.md","x":-1780,"y":-820,"width":560,"height":400,"color":"#130b7f"},
+		{"id":"82a23973b531b6f8","type":"text","text":"# 题目练习","x":-1120,"y":-920,"width":400,"height":60,"color":"1"},
+		{"id":"3d018575f7a91052","type":"file","file":"408/principles/example/exam.md","x":-1120,"y":-820,"width":400,"height":400,"color":"1"},
+		{"id":"c4f140e9d68c4374","type":"file","file":"408/principles/dataRepre.md","x":-1780,"y":-380,"width":560,"height":400,"color":"#1a137c"},
+		{"id":"9959c31042ea034f","type":"text","text":"- [x]  本周计划","x":-1780,"y":-1180,"width":240,"height":220,"color":"4"}
+	],
+	"edges":[
+		{"id":"2e36ffb166bb61b2","fromNode":"a3d295e69f928830","fromSide":"bottom","toNode":"ca9cbada1b6e350b","toSide":"top","color":"5"},
+		{"id":"8b3fd0c56b0b9a75","fromNode":"ca9cbada1b6e350b","fromSide":"bottom","toNode":"c4f140e9d68c4374","toSide":"top","color":"5"}
+	]
+}
