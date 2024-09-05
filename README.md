@@ -37,17 +37,17 @@
 
 > [! failure] failure
 
-> [! danger] danger
+> [! danger] danger/error
 
-> [! error] error
+<!-- > [! error] error -->
 
 > [! bug] bug
 
 > [! example] example
 
-> [! quote] quote
+> [! quote] quote/cite
 
-> [! cite] cite
+<!-- > [! cite] cite -->
 
 have a good life
 <!-- git init 
