@@ -99,6 +99,9 @@ regData |= (b2_mask | b3_mask);
 
 --- 
 # 第四章 指令系统
+### 主存中数据的存放
+![图 29](../../../images/d06a0f708c6ca5c741cecf077873c99a6c61bf6e7d5c3e85a1cca4b8f673840d.png)  
+![图 30](../../../images/69c9b5908aa1574ca7af2da7dfb77251464d4c13743b3d78b41e8cfb322e885f.png)  
 
 
 

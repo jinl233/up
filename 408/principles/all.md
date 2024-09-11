@@ -3,12 +3,13 @@
 <!-- ![[计算机组成原理第3版 唐朔飞.pdf]] -->
 # 第一章 计算机系统概述
 --- 
-> [!example] [第一章](/408/principles/base.md)
+> [!example] [第一章](/408/principles/base.md) 
 
 ![alt text](../../images/408-pr-pic-image-4.png)
 
 
 # 第二章 数据的表示和运算
+
 --- 
 > [!example] [第二章](/408/principles/dataRepre.md)
 
