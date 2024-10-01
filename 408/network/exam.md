@@ -43,6 +43,10 @@
 ![图 15](../../images/ff0b336fbbd1d5d34bc58071d002c4cb8b896b7ad1213afb01617fcb63be9dd7.png)  
 
 
+## 真题
+1. [2015-35](https://www.bilibili.com/video/BV1G54y1d7bP?t=151.9&p=17)
+2. 
+
 # 第四章 网络层
 
 ### 划分子网

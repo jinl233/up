@@ -5,7 +5,7 @@
 #### upup
 ##### upup
 ###### upup
-
+#EAF5F2
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
@@ -49,7 +49,7 @@
 
 <!-- > [! cite] cite -->
 
-have a good life
+- . have a good life
 <!-- git init 
 git add obdocs
 git commit -m "first commit" 

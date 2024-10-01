@@ -220,27 +220,30 @@ bool Empty(LinkList L)
 
  带头节点按位插入
 
-```c
-status ListInsert(LinkList &L,int i, ElemType e)
-{
-    p=L; 
-    j=0;
-    while( j<i-1 && p!=NULL )
-    {
-        j++;
-        p=p->next;
-    }end of while
-    if(p==NULL| j>i-1)
-        return ERROR;
-    s=(LinkList)malloc(sizeof(LNode));
-    if(S ==NULL)
-        exit( OVERFLOW );
-    s->data=e;
-    s->next=p->next;
-    p->next=s;
-    return OK;
-}
-```
+> [!CITE]- test
+> ```c
+> status ListInsert(LinkList &L,int i, ElemType e)
+> {
+>     p=L; 
+>     j=0;
+>     while( j<i-1 && p!=NULL )
+>     {
+>         j++;
+>         p=p->next;
+>     }end of while
+>     if(p==NULL| j>i-1)
+>         return ERROR;
+>     s=(LinkList)malloc(sizeof(LNode));
+>     if(S ==NULL)
+>         exit( OVERFLOW );
+>     s->data=e;
+>     s->next=p->next;
+>     p->next=s;
+>     return OK;
+> }
+>```
+ 
+ 
  不带头节点按位插入
 
 ```c
