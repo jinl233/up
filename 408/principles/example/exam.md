@@ -1,4 +1,4 @@
-# 第一章 计算机系统概述 
+# 计算机系统概述 
 ### 指令地址
 ![alt text](../../../images/408-pr-exam-image.png)
 ### 存储体容量
@@ -17,7 +17,7 @@
 ![alt text](../../../images/408-pr-exam-image-7.png)
 
 --- 
-# 第二章 数据的表示和运算
+# 数据的表示和运算
 
 ### 进制转换
 ![alt text](../../../images/408-pr-exam-image-8.png)
@@ -47,7 +47,7 @@
 
 
 --- 
-# 第三章 存储器层次结构
+# 数据的运算
 ### 逻辑位移的应用
 ![图 15](../../../images/d92d0069c92eca7203d6eb25561b43a32902f8dcce283348d5bfc6ff2a4ac110.png)  
 ![图 16](../../../images/f4a5cdcf09c6595f59e5723cabdcfb4cb6eab7141657526648e7ee476ab56b91.png)  
@@ -97,8 +97,11 @@ regData |= (b2_mask | b3_mask);
 
 
 
+# 存储器层次结构
+
+
+
 --- 
-# 第四章 指令系统
 ### 主存中数据的存放
 ![图 29](../../../images/d06a0f708c6ca5c741cecf077873c99a6c61bf6e7d5c3e85a1cca4b8f673840d.png)  
 ![图 30](../../../images/69c9b5908aa1574ca7af2da7dfb77251464d4c13743b3d78b41e8cfb322e885f.png)  
@@ -107,17 +110,38 @@ regData |= (b2_mask | b3_mask);
 ![图 31](../../../images/f6ff2b2154cfbce15b4dee65c5dd2abd9c06a4d1c3f28d4475a6052a5256526f.png)  
 
 
+### 交叉编址
+![图 32](../../../images/48c6b54cd24858959dcd650bc60620dbe7059bbadc579f3da0be5e47e1f899ff.png)  
+
+### 交叉编制/综合
+![图 33](../../../images/1c7ca529e3bf246e61973d06f795ca11f0bdff13873f7fe7eae2a3c61603ebd6.png)  
+![图 34](../../../images/5174a895d2dfaf2c5d9db60e96f8b49e1285d0df8c0e48df73c478472f49462a.png)  
+> **位扩展**方式（也称数据总线扩展）
+> 4个8位的DRAM芯片一共提供32位数据，与存储器总线位宽相同，可**同时启动**4个芯片进行并行读写，同时读写32位数据  
+
+![图 35](../../../images/1c7ea658d9a8dd2a4f621d91ccb225caead18af7e69ff43637c755063f2b1220.png)  
+
+### 直接映射
+![图 36](../../../images/21fe979adad2b781b1f25e7cfd6e76ea0d2c08c34693e833e344dd0b6c679e01.png)  
+
+### 回写
+![图 37](../../../images/2e831286fd649080b740f726cefa0f1a419190bca2859614a6bd14e05b9cfe13.png)  
+
+
+---
+# 指令系统
+
 --- 
-# 第五章 中央处理器
+# 中央处理器
 
 
 --- 
-# 第六章 总线
+# 总线
 
 
 
 --- 
-# 第七章 输入\输出系统
+# 输入\输出系统
 
 
 

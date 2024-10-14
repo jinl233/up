@@ -30,3 +30,6 @@ $\quad \Large P(A+B|\overline{A})=\frac{P(A\cup B)\cap \overline{A}}{P(\overline
 
 [n次独立重复实验](a7.md#n次独立重复实验) 
 
+# 第二章
+#### 连续型随机变量
+![图 0](../../images/2b38bc2b246d8cc6dd89e0976dacad5f586ab209ad8fe30468f77d434d76bfd7.png)  
