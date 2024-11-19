@@ -54,7 +54,21 @@
 
 
 # 第五章 运输层
+### TCP报文首部格式
+![图 17](../../images/8310df0a6ef306c808b797413a2400804b5d0b0c072bdf7638120e011de9ac2a.png)  
+![图 22](../../images/cb8cb74afa19221777c5952e020ecb33f4c4321c078592de01d1181ddbc35a95.png)  
 
+### TCP流量控制
+![图 18](../../images/35003c1320bfddcbaf5e465f64ad18775b692b7f96f02e473131a6e201c78d60.png)  
+
+### TCP拥塞控制
+![图 19](../../images/a6ce1303f08274ff00fa36966e3a4de248bbf18b5c32495b5703c8af0e8426ae.png)  
+![图 20](../../images/4ab66dde2cd2c51757d5af160c04d3e0e3ae2a040779916bb32622289e7498d3.png)  
+![图 21](../../images/c2016db22195d3e400dcfb4e6cbe1ec82a4bce4dd28ae38973ae91dced776c59.png)  
+
+### 超时重传
+![图 23](../../images/c8b64bb2bf06e2daf3b3152f1d5977d7ddab8e32b041f84de344a646a3b7e806.png)  
+![图 24](../../images/6ff0f7baf5b384c6232e75d19b14dd31b317b67fa261b4ee0df0a1362ceb14a6.png)  
 
 # 第六章 应用层
 

@@ -127,9 +127,22 @@ regData |= (b2_mask | b3_mask);
 ### 回写
 ![图 37](../../../images/2e831286fd649080b740f726cefa0f1a419190bca2859614a6bd14e05b9cfe13.png)  
 
+### 直接映射大题
+![图 38](../../../images/d1a2b944ae2ea5488932e0d87b81b14cade5c3a8c997c3c3868495a844443755.png)  
+![图 39](../../../images/ae8945080ad969410851fe1c425149103e834de1764f64be3726fb3e8c987876.png)  
+![图 40](../../../images/78f05c3051ebf374577efd8c852ae63cf9113631e3be9978d5b3000c6168d748.png)  
+
+### 直接映射大题1
+![图 41](../../../images/47b95a78b8adf941b8bbad0cd74e40c738ff3b46474f9be36edf1ddca1ff7054.png)  
+
+### 全相联映射
+![图 42](../../../images/15efec4072bd30c8923ee4c00a62c896f0da7765f27e80c00a5cc5f334ed516c.png)  
+
 
 ---
 # 指令系统
+### 指令字长
+![图 43](../../../images/9fdfea2f7a8303ad1836d6f986c799e695ef8ec2ca1781258e24c13b25496700.png)  
 
 --- 
 # 中央处理器
