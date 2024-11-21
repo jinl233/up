@@ -71,4 +71,12 @@
 ![图 24](../../images/6ff0f7baf5b384c6232e75d19b14dd31b317b67fa261b4ee0df0a1362ceb14a6.png)  
 
 # 第六章 应用层
+### DNS解析
+![图 25](../../images/c2bae2e7e1a61f91ed1a20299e0a68df70c518925286257f5fd1c112ff009798.png)  
+
+### FTP
+![图 27](../../images/907f48719cfb3cd5d283c8dd927910059c799f540b9bca57eae3a6c41bbb0bd4.png)  
+
+### HTTP1.1
+![图 28](../../images/9cb2cce33cdcc4c000d2d5999088d23af152c432d0328e75f336942eb2da1966.png)  
 
